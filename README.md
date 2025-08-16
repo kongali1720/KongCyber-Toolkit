@@ -36,25 +36,27 @@ cd KongCyber-Toolkit
 pip install requests beautifulsoup4 nmap colorama cryptography paramiko
 ```
 
-## Network Scan
+```bash
+sudo apt install nmap
+```
+
+### Network Scan
 python network_scan.py
 
-## SQLi Testing
+### SQLi Testing
 python sqli_test.py
 
-## SSH Brute Force Demo (Ethical)
+### SSH Brute Force Demo (Ethical)
 python ssh_bruteforce.py
 
-## File Encrypt/Decrypt
+### File Encrypt/Decrypt
 python encrypt_file.py
 python decrypt_file.py
 
-## Hash Generator
+### Hash Generator
 python hash_generator.py
 
 ---
-
-
 
 <h3 align="center">💡 ☕ Traktir Kopi & Nasi Padang ama nasi Gorengnya ya cuy! 😄</h3>
 
