@@ -130,8 +130,6 @@ Support with ☕ so I can buy 🍜 and keep being 🧠!
 
 ---
 
----
-
 <h3 align="center" style="color:#ff69b4;">❤️ 💻 INITIATING HUMANITY MODE... for Down Syndrome ❤️</h3>
 
 <div align="center">
